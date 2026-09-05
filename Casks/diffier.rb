@@ -1,6 +1,6 @@
 cask "diffier" do
   version "0.0.2"
-  sha256 "1cc7e2dbefbeab2d6d667367171e5083c1f7872f20627a23d5013cbe83a30f6a"
+  sha256 "48c9feee0d68914a0767a4a4cbe44d504e7be78d26037b80bbac73f2ca3bdbc5"
 
   url "https://github.com/afitzgerald/diffier/releases/download/v0.0.2/Diffier-buildv0.0.2-arm64.dmg"
   name "Diffier"
