@@ -1,8 +1,8 @@
 cask "diffier" do
-  version "0.0.2"
-  sha256 "48c9feee0d68914a0767a4a4cbe44d504e7be78d26037b80bbac73f2ca3bdbc5"
+  version "0.0.3"
+  sha256 "d25618d8f2063094edcf5605a32b743fb67ef4ad106d324837f3dbfaae5bebc2"
 
-  url "https://github.com/afitzgerald/diffier/releases/download/v0.0.2/Diffier-buildv0.0.2-arm64.dmg"
+  url "https://github.com/afitzgerald/diffier/releases/download/v0.0.3/Diffier-buildv0.0.3-arm64.dmg"
   name "Diffier"
   desc "IntelliJ-style Git commit tool window + diff viewer for macOS"
   homepage "https://github.com/afitzgerald/diffier"
